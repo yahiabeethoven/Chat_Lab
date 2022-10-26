@@ -51,6 +51,8 @@ body, html {
     list-style: none;
     padding: 0;
     width: 60%;
+    height: 80%;
+    overflow: scroll;
   }
   
   .chat__list-item {

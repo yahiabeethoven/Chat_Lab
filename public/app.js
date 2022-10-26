@@ -4,7 +4,7 @@ window.addEventListener("load", () => {
     setInterval(() => {
         console.log("checking for messages every 2 seconds");
         refreshMsgs();
-    }, 2000);
+    }, 1000);
 
 
     let chatForm = document.getElementById("chat-form");
